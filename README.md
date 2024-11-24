@@ -1,9 +1,11 @@
 # interview-solution
 
-## Run Tests via Maven:
+## Run tests via Maven:
 `mvn clean test`
 
-## View Test Report after running:
-`target/report/cucumber_report.html
+## View test report after running:
+```
+target/report/cucumber_report.html
 target/report/cucumber_report.json
-target/report/cucumber_report.xml`
+target/report/cucumber_report.xml
+```
